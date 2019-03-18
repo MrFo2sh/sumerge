@@ -1,0 +1,17 @@
+{
+    "dbUri":"mongodb+srv://yosri:asdf1234@cluster0-ws7fn.mongodb.net/test?retryWrites=true",
+    "port": "3000",
+    "tokenSecret": "thisIsOutTokenSecretToEncryptTheUserToken",
+    "tokenExpire": 2419200,
+    "minPasswordLength": 8,
+    "FACEBOOK_APP_ID": "387776895372383",
+    "FACEBOOK_APP_SECRET": "ebf9ec2f653b7f4c21317ae749290d27",
+    "facebookCallbackURL": "http://localhost:3000/api/users/auth/facebook/callback",
+    "googleClientId": "84687891220-ka4dalat70ckjpk824ifhkbh0ag7ldkr.apps.googleusercontent.com",
+    "googleClientSecret": "ZEYsBGrYJnbrFuB1VWIwjY4P",
+    "facebookImgs": "/FbProfileImgs/",
+    "assetsUrl": "localhost:3000/assets",
+    "emailTokenSecret": "ThisIsTheEmailConfirmationTokenSecret",
+    "fedniEmail": "m.fouad2912@gmail.com",
+    "confirmEmailSubject": "Fedni email confirmation"
+}
